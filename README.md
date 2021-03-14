@@ -1,6 +1,4 @@
-[Machine Learning] Object Detection Model | K-means Clustering
-
-## Introduction
+## [Machine Learning] Object Detection Model | K-means Clustering
 
 - The goal of this project is to implement Harris corner detection technique
     to find the data points and perform k-means clustering by self-made

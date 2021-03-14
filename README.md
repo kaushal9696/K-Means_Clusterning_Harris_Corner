@@ -1,3 +1,5 @@
+[Machine Learning] Object Detection Model | K-means Clustering
+
 ## Introduction
 
 - The goal of this project is to implement Harris corner detection technique
